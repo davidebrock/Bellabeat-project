@@ -12,6 +12,17 @@ The data used in this project was made available through [Mobius](https://www.ka
 ## Data Processing, Cleaning, and Analysis
 All data processing, cleaning, and analysis were completed using SQL and can be found in the *bellabeat-SQL-script.sql* script provided in this repository, along with comments throughout detailed thought processes and findings.
 
+## Summary of Analysis
+1. **Limited Heart Rate Tracking**: Only 30% of the participants tracked their heart rates during workouts and those who did tend to burn more calories and engage in higher activity levels. This suggests that heart rate tracking could be associated with more intense physical activity.
+
+2. **Afternoons are Most Active**: On average, afternoons are the most active times of the day for participants, except on Thursdays. The peak workout times during the week are between 17:00 and 19:00 (5-7 PM) on most days and between 11:00 and 14:00 (11 AM - 2 PM) on Saturdays.
+
+3. **Sleep Duration and Activity**: Participants who slept between 5-7 hours per night burned the most calories, closely followed by those who slept for the recommended 7-9 hours. Oversleeping appeared to have the largest negative impact on daily activity.
+
+4. **Step Tracking**: Only 7 out of 33 participants achieved an average of 10,000 steps per day. Those who did tend to move for a minimum of 7.5 miles daily. 
+
+Overall, my analysis suggests that tracking factors like heart rate, sleep duration, and step count can have an impact on physical activity and overall wellness. However, these conclusions are based on a limited dataset, and a larger and more comprehensive dataset would be needed for more robust and generalizable findings.
+
 ## Data limitations
 I would like to further evaluate weight trends through sleep, calories burned, and activity minutes. However, the dataset provided does not provide an adequate amount of weight data to provide an accurate analysis. After viewing the weight_log dataset, there were not enough unique users who tracked their weight in the timeframe of the dataset, which spanned one month. If there is a desire to understand how users utilize fitness trackers for weight management, more data would be needed both in the time span of the data and in addition to more users participating in providing weight data consistently throughout the study.
 
