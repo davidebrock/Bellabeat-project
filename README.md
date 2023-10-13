@@ -1,4 +1,16 @@
 # Bellabeat Data Analysis Project
+
+## Table of Contents
+* [Methods Used](https://github.com/davidebrock/Bellabeat-project#methods-used)
+* [Business Task](https://github.com/davidebrock/Bellabeat-project#business-task)
+* [Datasource](https://github.com/davidebrock/Bellabeat-project#datasource)
+* [Data Processing, Cleaning, and Analysis](https://github.com/davidebrock/Bellabeat-project#data-processing-cleaning-and-analysis)
+* [Summary of Analysis](https://github.com/davidebrock/Bellabeat-project#summary-of-analysis)
+* [Data Limitations](https://github.com/davidebrock/Bellabeat-project#data-limitations)
+* [Tableau Dashboard/Visualization](https://github.com/davidebrock/Bellabeat-project#tableau-dashboardvisualization)
+* [Recommendations](https://github.com/davidebrock/Bellabeat-project#recommendations)
+* [Areas Requiring Further Data](https://github.com/davidebrock/Bellabeat-project#areas-requiring-further-data)
+
 ## Methods Used
 * SQL
 * Tableau
@@ -23,7 +35,7 @@ All data processing, cleaning, and analysis were completed using SQL and can be 
 
 Overall, my analysis suggests that tracking factors like heart rate, sleep duration, and step count can have an impact on physical activity and overall wellness. However, these conclusions are based on a limited dataset, and a larger and more comprehensive dataset would be needed for more robust and generalizable findings.
 
-## Data limitations
+## Data Limitations
 I would like to further evaluate weight trends through sleep, calories burned, and activity minutes. However, the dataset provided does not provide an adequate amount of weight data to provide an accurate analysis. After viewing the weight_log dataset, there were not enough unique users who tracked their weight in the timeframe of the dataset, which spanned one month. If there is a desire to understand how users utilize fitness trackers for weight management, more data would be needed both in the time span of the data and in addition to more users participating in providing weight data consistently throughout the study.
 
 The sleep data may only provide part of the story relating to total calories burned and does not communicate any other effects that sleep difference may have had on users, such as energy levels throughout the day, alertness, or other benefits of sleep.
@@ -33,7 +45,7 @@ Lastly, there were only 33 participants who tracked information over the course 
 ## Tableau Dashboard/Visualization
 The dashboard designed for this project was laid out in a way that emulates Bellabeat's design language found on their **[website](https://www.bellabeat.com/)** at the time of design. This is to provide cohesiveness for the organization's visualization and meet their standard for quality. This dashboard's purpose is to make it easy to understand how participants in the dataset used their Fitbit devices and will also provide the elements for the presentation that will be used with the executive team.
 
-**[View the Bellabeat Dashboard here.](https://public.tableau.com/app/profile/david.brock2641/viz/Bellabeat_16968184231570/Dashboard12)**
+**[View the Bellabeat Tableau Dashboard here.](https://public.tableau.com/app/profile/david.brock2641/viz/Bellabeat_16968184231570/Dashboard12)**
 
 ## Recommendations
 
